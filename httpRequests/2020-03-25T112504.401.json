@@ -1,0 +1,7 @@
+{
+  "timestamp": 1585149904645,
+  "status": 401,
+  "error": "Unauthorized",
+  "message": "Unauthorized",
+  "path": "/test"
+}

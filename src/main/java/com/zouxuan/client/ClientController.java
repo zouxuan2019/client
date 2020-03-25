@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ClientController {
+
+
     @GetMapping("/test")
     @PermissionScope("admin")
     public void authTest() {
@@ -19,4 +21,7 @@ public class ClientController {
         System.out.println( "mmm" );
 
     }
+
+
 }
+
