@@ -1,3 +1,119 @@
+GET http://localhost:8080/anon/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+<> 2020-03-25T112054.401.json
+
+###
+
+GET http://localhost:8080/anon/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/anon/test
+Accept: application/json
+
+<> 2020-03-25T111748.404.json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+<> 2020-03-25T111700.404.json
+
+###
+
+GET http://localhost:8080/anon/test
+Accept: application/json
+
+<> 2020-03-25T111508.404.json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+<> 2020-03-25T105745.404.json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+<> 2020-03-25T104218.404.json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+<> 2020-03-25T103906.404.json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+<> 2020-03-25T050258.404.html
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
+GET http://localhost:8080/test
+Accept: application/json
+
+###
+
 GET http://localhost:8080/test
 Accept: application/json
 

@@ -9,3 +9,8 @@ GET http://localhost:8080/test
 Accept: application/json
 
 ###
+
+GET http://localhost:8080/anon/test
+Accept: application/json
+
+###
