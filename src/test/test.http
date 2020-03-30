@@ -5,12 +5,12 @@
 # * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
 # * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
 
-GET http://localhost:8080/test
+GET http://localhost:8081/test
 Accept: application/json
 Authorization: Bearer admin
 ###
 
-GET http://localhost:8080/anon/test
+GET http://localhost:8081/anon/test
 Accept: application/json
 
 ###
